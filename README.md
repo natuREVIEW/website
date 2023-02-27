@@ -1,4 +1,3 @@
-# website
-natuREVIEW.org
+# natuREVIEW.org
 
-Close by observation from a bird's-eye view
+Close-up observation from a bird's-eye view
