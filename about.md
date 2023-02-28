@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About natuREVIEW.org
+title: About
 ---
 
 <div class="post">
