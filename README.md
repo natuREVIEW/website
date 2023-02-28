@@ -1,3 +1,3 @@
-# natuREVIEW.org
+# Project natuREVIEW.org
 
-Close-up observation from a bird's-eye view
+Website is based on [Long Haul theme](http://github.com/brianmaierjr/long-haul) by Brian Maier Jr.

@@ -1,0 +1,35 @@
+title: natuREVIEW.org
+description: Close-up observation from a bird's-eye view
+
+url: https://natureview.org
+paginate_path: "content/page:num/"
+permalink: content/:title/
+
+# Header Option
+# header: large
+
+sass:
+    style: compressed
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+    - title: home
+      url: /index.html
+    - title: about
+      url: /about
+
+social:
+    github: natuREVIEW
+    #twitter: natuREVIEW
+    #facebook: natuREVIEW
+    email: info@natureview.org
+    #linkedin: 
+
+#google_analytics: "UA-58263416-1"
+
+#disqus:
+#    shortname: natuREVIEW
