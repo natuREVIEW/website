@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why natureVIEW?"
+title:  "Why natuREVIEW?"
 date:   2023-02-28
 description: Our journey on creating a nature observation device for passers-by.
 ---
